@@ -1,0 +1,62 @@
+POST http://localhost:8000/api/players/bulk_create/
+Content-Type: application/json
+
+[
+  {
+    "character_name": "无所屌谓",
+    "profession": "Death Knight",
+    "role": "DPS"
+  },
+  {
+    "character_name": "四点半吃席",
+    "profession": "Shaman",
+    "role": "Healer"
+  },
+  {
+    "character_name": "职业补刀",
+    "profession": "Druid",
+    "role": "Healer"
+  },
+  {
+    "character_name": "弱鸡战乄",
+    "profession": "Warrior",
+    "role": "DPS"
+  },
+  {
+    "character_name": "小福包爸爸",
+    "profession": "Paladin",
+    "role": "DPS"
+  },
+  {
+    "character_name": "突凸秃兔",
+    "profession": "Shaman",
+    "role": "DPS"
+  },
+  {
+    "character_name": "Kissoreo",
+    "profession": "Warlock",
+    "role": "DPS"
+  },
+  {
+    "character_name": "孤独风中游",
+    "profession": "Monk",
+    "role": "Tank"
+  },
+  {
+    "character_name": "小卡皮巴拉",
+    "profession": "Hunter",
+    "role": "DPS"
+  },
+  {
+    "character_name": "清晨挽歌",
+    "profession": "Hunter",
+    "role": "DPS"
+  },
+  {
+    "character_name": "白洛因",
+    "profession": "Priest",
+    "role": "Healer"
+  }
+]
+
+

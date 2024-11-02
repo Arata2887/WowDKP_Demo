@@ -1,3 +1,12 @@
 前端：halo + vxe-table
 后端：Django
 服务器：群辉nas
+
+鸣谢：
+https://www.halo.run
+https://github.com/chengzhongxue/halo-theme-iemo
+https://github.com/x-extends/vxe-table
+
+调试指令：
+python manage.py runserver
+
